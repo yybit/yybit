@@ -1,8 +1,10 @@
 # 👋 Hi, I'm yybit
 
-**🦀 Rust Systems Programmer · 🧠 AI Infrastructure**
+**☁️ DevOps Leader · 🦀 Rust Systems Programmer · 🧠 AI Infrastructure**
 
-Software engineer with **10+ years of experience** across **finance, e-commerce and internet** industries, now focused on Rust systems programming and AI infrastructure — LLM inference, filesystems, containers and package tooling.
+DevOps leader and software engineer with **10+ years of experience** across **finance, e-commerce and internet** industries. Led the design and delivery of large-scale software systems deployed on **millions of nodes**, across **multiple regions** and **heterogeneous environments**.
+
+Currently focused on Rust systems programming and AI infrastructure — LLM inference, filesystems, containers and package tooling.
 📍 Based in Shanghai, China. Open to roles in **Shanghai or remote**.
 
 ---
@@ -50,10 +52,9 @@ A pure Rust library for parsing and generating zchunk files — a chunked compre
 
 ## 🧰 Tech Stack
 
-- **🦀 Languages**: Rust (primary), C, Python
-- **💾 Systems**: filesystems, Linux distros / containers, RPM package management, SIMD optimization
+- **🦀 Languages**: Rust (primary), Go, Python
+- **🌐 Systems**: large-scale distributed systems, filesystems, Linux distros / containers, RPM package management, SIMD optimization
 - **🧠 AI**: LLM inference (Transformers, GGUF, CPU deployment)
-- **⚙️ Engineering**: crates.io publishing, GitHub Actions CI/CD, cross-platform cross-compilation
-
+- **⚙️ Engineering**: DevOps, CI/CD, crates.io publishing, cross-platform cross-compilation
 
 💬 Happy to talk about Rust, systems programming and AI infrastructure.
