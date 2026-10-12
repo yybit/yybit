@@ -2,7 +2,7 @@
 
 **🦀 Rust Systems Programmer · 🧠 AI Infrastructure**
 
-Rust systems programmer working on LLM inference, filesystems, containers and package tooling.
+Software engineer with **10+ years of experience** across **finance, e-commerce and internet** industries, now focused on Rust systems programming and AI infrastructure — LLM inference, filesystems, containers and package tooling.
 📍 Based in Shanghai, China. Open to roles in **Shanghai or remote**.
 
 ---
