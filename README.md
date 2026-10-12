@@ -57,4 +57,9 @@ A pure Rust library for parsing and generating zchunk files — a chunked compre
 - **🧠 AI**: LLM inference (Transformers, GGUF, CPU deployment)
 - **⚙️ Engineering**: DevOps, CI/CD, crates.io publishing, cross-platform cross-compilation
 
-💬 Happy to talk about Rust, systems programming and AI infrastructure.
+## 📫 Contact
+
+- **📧 Email**: [yybit2@gmail.com](mailto:yybit2@gmail.com)
+- **💬 WeChat**: hades_xiao
+
+Happy to talk about Rust, systems programming and AI infrastructure.
