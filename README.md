@@ -1,6 +1,6 @@
 # 👋 Hi, I'm yybit
 
-**☁️ DevOps Leader · 🦀 Rust Systems Programmer · 🧠 AI Infrastructure**
+**☁️ DevOps Engineer · 🦀 Rust Systems Programmer · 🧠 AI Infrastructure**
 
 DevOps leader and software engineer with **10+ years of experience** across **finance, e-commerce and internet** industries. Led the design and delivery of large-scale software systems deployed on **millions of nodes**, across **multiple regions** and **heterogeneous environments**.
 
